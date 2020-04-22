@@ -12,7 +12,7 @@ class Quiz extends Component {
     }
 
     render() {
-        retrun (
+        return (
            <div className="QuizQuestion"></div>
         )
     }
