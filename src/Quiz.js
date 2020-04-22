@@ -12,8 +12,9 @@ class Quiz extends Component {
     }
 
     render() {
-        <div className="QuizQuestion">
-        </div>
+        retrun (
+           <div className="QuizQuestion"></div>
+        )
     }
 }
 
